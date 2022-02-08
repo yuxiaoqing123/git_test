@@ -1,5 +1,5 @@
 module test(
-    input   clk,
+    input   ck,
     input   rst
 
 );
